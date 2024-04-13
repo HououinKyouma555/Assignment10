@@ -9,7 +9,6 @@ public class App {
         int n = scnr.nextInt();
         scnr.close();
         int numbers[] = new int[n];
-        System.out.println("testing sum");
 
         for (int i = 0; i < numbers.length; i++)
         {
